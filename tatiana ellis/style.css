@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
+BODY{
+COLOR : rgb(235, 134, 151);
+background-color : black;
+font-size : 20pt;
+text-align: center;
+font-family: 'Dancing Script', cursive;
+}
