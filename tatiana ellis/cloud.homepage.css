@@ -1,0 +1,16 @@
+div {
+color:white;
+
+background-image: url("taticloud.jpg");
+background-size: contain;
+width: 100px;
+height: 50px;
+
+font-size: 20pt;
+text-align:center;
+line-height: 50px;
+
+position:cue-region;
+left: 20%;
+top: 0;
+}
